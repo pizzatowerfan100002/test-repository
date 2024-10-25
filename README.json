@@ -1,1 +1,1 @@
-{ "event0": false, "versions": [ "test1", "test2" ], "ids": [ "000" ] }
+{ "event0": false, "versions": [ "test1", "test2" ], "ids": [ "000" ], "event_mach3boost": true }
